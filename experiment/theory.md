@@ -14,13 +14,13 @@
 
 The kelvin double bridge incorporates the idea of a second set of ratio arms - hence the name double bridge- and the use of four terminal resistors for the low resistance arms. Figure 1 shows the schematic diagram of kelvin bridge. The first ratio arms is P and Q. The second set of ratio arms p and q is used to connect the galvanometer to a point d at the appropriate potential between points m and n to eliminate the effect of connecting lead resistance r between the unknown resistance R and the standard resistance S.
 
-The ratio p/q is made equal to P/Q. Under balance conditions there is no current through the galvanometer which means that the voltage drop between a and b, Eab is equal to voltage drops Eamd between a and c.
+The ratio p/q is made equal to P/Q. Under balance conditions there is no current through the galvanometer which means that the voltage drop between a and b, E<sub>ab</sub> is equal to voltage drops E<sub>amd</sub> between a and c.
 
 
-`E_(ab) = P* E_(ac)/(P+Q)` and `E_(ac) = I*{R + S + r*(p + q)/(p+q+r)}`
+$$ E_(ab) = P* E_(ac)/(P+Q) \ and \ E_(ac) = I*{R + S + r*\frac{(p + q)}{(p+q+r)}} $$
 
    
-`E_(amd)= I*{R+(p/(p+q))*(r*(p+q)/(p+q+r))} = I*(R+pr/(p+q+r))`
+$$ E_(amd)= I*{R+\frac{p}{(p+q)}*(r*\frac{p+q}{p+q+r})} = I*(R+\frac{pr}{p+q+r}) $$
 
 for zero galvanometer deflection, Eab=Eamd
 
@@ -32,3 +32,4 @@ for zero galvanometer deflection, Eab=Eamd
 
 
 Eq (2) is the usual working equation for the kelvin bridge. It indicates that the resistance of connecting lead, r, has no effect on the measurement, provided that the two sets of ratio arms have equal ratios.
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
