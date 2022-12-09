@@ -18,8 +18,8 @@ The ratio p/q is made equal to P/Q. Under balance conditions there is no current
 
 $$ E_(ab) = P* E_(ac)/(P+Q) \ and \ E_(ac) = I*{R + S + r*\frac{(p + q)}{(p+q+r)}} $$
 
-
 $$ E_(amd)= I*{R+\frac{p}{(p+q)}*(r*\frac{p+q}{p+q+r})} = I*(R+\frac{pr}{p+q+r}) $$
+
 
 for zero galvanometer deflection, Eab=Eamd
 
