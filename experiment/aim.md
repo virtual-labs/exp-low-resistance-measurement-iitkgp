@@ -1,2 +1,2 @@
 ## Objective
- To measure Low resistance Kelvin's double bridge
+ To measure Low resistance using Kelvin's double bridge
