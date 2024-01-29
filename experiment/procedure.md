@@ -1,8 +1,10 @@
 ## Procedure
-![Rm501 Figure](images/ckt.jpg)
+<div align="center">
+<img src="./images/kelvindoublebridge_procedure.jpg"><br/>
+Figure 1: The circuit diagram for experimental set-up of Kelvin Double Bridge
+</div>
 
-***Figure 1:The circuit diagram for experimental set-up of Kelvin Double Bridge***
-</p>
+<br/><br/>
 1. Connect the circuit as shown in the Fig. 1.
 </p> 
 2. Set the value of the resistances A and a at 1000 ohm by setting the plugs at the marked positions and the values of B, b at 1000 ohm by setting the dial. Open the Key K. The bridge will act as a wheatstone bridge. A null deflection Galvanometer will ensure the relationship `A/a = B/b`.
