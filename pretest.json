@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Low resistances are provided with four terminals",
+      "answers": {
+        "a": "to eliminate the effect of thermo electric emfs",
+        "b": "to eliminate the effects of leads",
+        "c": "to fecilitate the connection of current and potential circuits",
+        "d": "in order that resistance value becomes definite irrespective of the nature of contacts at the current terminals"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a kelvin double bridge two sets of readings are taken when measuring a low resistance , one with the current in one direction and other with direction of current reversed. This is done to",
+      "answers": {
+        "a": "eliminate the effect of contact resistance",
+        "b": "eliminate the effect of thermo electric emfs",
+        "c": "eliminate the effect resistance of leads",
+        "d": "correct for changes in battery voltage"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

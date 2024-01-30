@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "A kelvin bridge is balanced with the following constants: outer ratio arm 100Ω and 1000Ω : inner arms, ratio 99.92Ω and 1000.6Ω resistance of link 0.1Ω ; standard resistance 0.00377Ω. calculate the value of unknown resistance",
+      "answers": {
+        "a": "0.000567Ω",
+        "b": "0.000467Ω",
+        "c": "0.020467Ω",
+        "d": "0.100467Ω"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The ratio arms of a kelvin bridge are 100 each. The galvanometer has an internal resistances of 500Ω and current sensitivity of 200 mm/uA. the unknown resistances is 0.1002Ω and the standard resistances is set at 0.1000Ω. A d.c current of 10Amp is passed through the standard and unknown resistances from a 2.2 v battery in series with a rheostat. Calculate the deflection of the galvanometer",
+      "answers": {
+        "a": "3320mm",
+        "b": "3326mm",
+        "c": "4320mm",
+        "d": "5320mm"
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is correct",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (a).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (a).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (a)."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The device which prevents the oscillation of the moving system and enables the latter to reach its final position quickly is",
+      "answers": {
+        "a": "deflecting",
+        "b": "controlling" ,
+        "c": "damping" ,
+        "d": "all of the above" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (c).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (c).",
+        "c": "You have choosen option (c). The answer is correct.",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (c)."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A moving-coil parmanent-magnet instrument with a low resistance shunt can be used as what?",
+      "answers": {
+        "a": "Ballistic galvanometer",
+        "b": "Flux-meter" ,
+        "c": "Voltmeter" ,
+        "d": "Ammeter" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (d).",
+        "b": "You have choosen option (b). The answer is incorrect. The correct option is (d).",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (d).",
+        "d": "You have choosen option (d). The answer is correct."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A moving-coil parmanent-magnet instrument can be used as flux-meter",
+      "answers": {
+        "a": "by making control springs of large moment of inertia",
+        "b": "by eliminating the control springs" ,
+        "c": "by using a high series resistance" ,
+        "d": "by using a low resistance shunt" 
+      },
+      "explanations": {
+        "a": "You have choosen option (a). The answer is incorrect. The correct option is (b).",
+        "b": "You have choosen option (b). The answer is correct.",
+        "c": "You have choosen option (c). The answer is incorrect. The correct option is (b).",
+        "d": "You have choosen option (d). The answer is incorrect. The correct option is (b)."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
